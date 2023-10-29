@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7AD6740D-0259-44D3-BE8E-DF0188228793}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pracctice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="136" Column="1" />
+      <File FileName="Repository.cs" Line="4" Column="49" />
+      <File FileName="BaseEntity.cs" Line="4" Column="18" />
+      <File FileName="Person.cs" Line="13" Column="23" />
+      <File FileName="DataList.cs" Line="4" Column="42" />
+      <File FileName="Student.cs" Line="4" Column="35" />
+      <File FileName="IPerson.cs" Line="6" Column="3" />
+      <File FileName="PaymentType.cs" Line="6" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pracctice" expanded="True">
+            <Node name="Pracctice">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/Practice/Pracctice/bin/Debug/net6.0/Pracctice
+/Users/safiyevelnur/Desktop/Practice/Pracctice/bin/Debug/net6.0/Pracctice.deps.json
+/Users/safiyevelnur/Desktop/Practice/Pracctice/bin/Debug/net6.0/Pracctice.runtimeconfig.json
+/Users/safiyevelnur/Desktop/Practice/Pracctice/bin/Debug/net6.0/Pracctice.dll
+/Users/safiyevelnur/Desktop/Practice/Pracctice/bin/Debug/net6.0/Pracctice.pdb
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.dll
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/refint/Pracctice.dll
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.pdb
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/Pracctice.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/Practice/Pracctice/obj/Debug/net6.0/ref/Pracctice.dll
